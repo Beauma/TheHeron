@@ -1,3 +1,21 @@
+## Thursday September 7th
+
+I attended the AE machine shop training today. I’m not overly sure what rights it gives me to the machines there, but I made friends with the instructor so I think that will be a good resource. 
+
+My favorite line from training: “Y’all, it’s just like fishin’…”
+
+I recut or sanded down my aluminum pieces to keep experimenting with different fastening methods. I also made some really good progress redesigning the head piece in Solidworks. This new piece strikes a better balance between my vision for what it should look like and something that’s actually manufacturable. 
+
+## Wednesday September 6th
+
+I’m trying to figure out how to seal these solar panels off from the elements. One solution I found was a melted EVA sheet over the panels. 
+
+“Tabbing wire” is used to connect multiple panels together. 
+
+Another option would be to use a resin or epoxy to seal in the panels. I think that would be difficult to evenly coat the epoxy on the curved wing surface. 
+
+I ordered two different sheets of EVA film off of Amazon, but it won’t be here for the next 1-2 weeks. I may be able to pick some up for testing at a staples (I think it’s a very similar film), but honestly the prototype of the fabric covering and solar setup probably won’t be done until next week. 
+
 ## Tuesday, September 5th
 
 Tested the aluminum brazing with some aluminum I picked up from McMaster. It worked alright. I need to find a better way to hold the aluminum in place while I braze it. 
