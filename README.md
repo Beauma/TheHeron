@@ -62,43 +62,4 @@ I did some more testing with aluminum welding, but beyond not being able to get 
 
 I began experimenting with aluminum welding. I had some difficulties hooking up the argon shielding gas to the welder, but used some soapy water to find the gas leaks. 
 
-The aluminum welding wire is so soft and flexible that it just bunches up inside the welder and doesn’t go down the line to the gun. It looks like I’ll need a spool gun, but my welder doesn’t support a spool gun. I might have to move to a steel frame, but I don’t really like the color of steel. A stainless steel might be a little better. Or I could use steel and nickel or zinc coat it. I could use paint, but I really like the look of a bare metal. 
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Beauma/TheHeron/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beauma/TheHeron/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The aluminum welding wire is so soft and flexible that it just bunches up inside the welder and doesn’t go down the line to the gun. It looks like I’ll need a spool gun, but my welder doesn’t support a spool gun. I might have to move to a steel frame, but I don’t really like the color of steel. A stainless steel might be a little better. Or I could use steel and nickel or zinc coat it. I could use paint, but I really like the look of a bare metal.
