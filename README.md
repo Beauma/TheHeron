@@ -1,3 +1,13 @@
+## Thursday September 14th
+
+The EVA film came in yesterday. I’ve yet to experiment with that, hurricanes have slowed down my progress. 
+
+Over the last week I’ve been working on converting all my solid part designing into sheet metal designs. It was a lot more complicated than I anticipated it to be. 
+
+Today I ordered the steel sheet to start fabricating the structure components. I also ordered the motor that will drive the entire unit. 
+
+I’ve been in contact with a welder that is going to weld together the win structure. I’ve finally accepted that joining aluminum is beyond me with this quick of a time frame. 
+
 ## Thursday September 7th
 
 I attended the AE machine shop training today. I’m not overly sure what rights it gives me to the machines there, but I made friends with the instructor so I think that will be a good resource. 
