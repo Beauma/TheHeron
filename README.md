@@ -2,7 +2,13 @@
 
 Despite not updating this as frequently I’ve been working pretty steadily. I talked to Bill Huang about simplifying the camshaft mechanism. He thought it would be easier to change the cam lobes to like a true offset cam shaft. I don’t think I’m describing this well, but essentially a pipe with different pipes offset. 
 
-The design would rely on bearings around a pipe. The biggest diameter bearing I can get fairly cheaply off McMaster is 1-1/4 inches. At 1-1/2 inches the cost goes up dramatically. I’ll try to look into other sources though. Bearings Direct has some [1-1/2” ID bearings](https://bearingsdirect.com/r-series-ball-bearings-light-duty/2550-r24-zz-ball-bearing-1-1-2x2-5-8x9-16-shielded-s13kdd.html) in stock at under $10 — that’s definitely a better deal than MCM, but I’d have to wait for shipping. 
+The design would rely on bearings around a pipe. The biggest diameter bearing I can get fairly cheaply off McMaster is 1-1/4 inches. At 1-1/2 inches the cost goes up dramatically. I’ll try to look into other sources though. Bearings Direct has some [1-1/2” ID bearings](https://bearingsdirect.com/r-series-ball-bearings-light-duty/2550-r24-zz-ball-bearing-1-1-2x2-5-8x9-16-shielded-s13kdd.html) in stock at under $10 — that’s definitely a better deal than MCM, but I’d have to wait for shipping.
+
+1-1/2" steel tube is roughly $5 a foot on MCM, not a bad price either. That's definitely a good idea by Bill Huang, I'm glad I asked his opinion. Definitely a lot simpler and less finicky. 
+
+I chekced in on my part being cut at the AE maker space — they still haven't cut it yet. I guess I can't blame them, given that they're working hard to support the legitimate projects of the school. It is a little awkward though, because what would be best is for me just to grab the sheet and take it back to the invention studio. I was under the impression the AE waterjet was larger, but they're about the same size. Oh well. At least I don't have to spend time monkeying around with the water jet. In the future, however, I'll definitely take things to the invention studio. 
+
+I was also working on converting the base for sheet metal. Solidworks sheet metal conversion is a lot more finicky than I thought it would be. I guess that's solidworks though. I used to use solidworks for a lot of conception, but now there's no way, now that I've seen how easy blender is. Granted, there are no dimensions, but you can just run and gun shapes around and get your idea out fast. 
 
 ## Thursday September 14th
 
