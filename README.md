@@ -2,7 +2,7 @@
 
 Despite not updating this as frequently I’ve been working pretty steadily. I talked to Bill Huang about simplifying the camshaft mechanism. He thought it would be easier to change the cam lobes to like a true offset cam shaft. I don’t think I’m describing this well, but essentially a pipe with different pipes offset. 
 
-The design would rely on bearings around a pipe. The biggest diameter bearing I can get fairly cheaply off McMaster is 1-1/4 inches. At 1-1/2 inches the cost goes up dramatically. I’ll try to look into other sources though. Bearings Direct has some 1-1/2” ID bearings in stock at under $10 — that’s definitely a better deal than MCM, but I’d have to wait for shipping. <a href="www.google.com>hello?</a>
+The design would rely on bearings around a pipe. The biggest diameter bearing I can get fairly cheaply off McMaster is 1-1/4 inches. At 1-1/2 inches the cost goes up dramatically. I’ll try to look into other sources though. Bearings Direct has some [1-1/2” ID bearings](https://bearingsdirect.com/r-series-ball-bearings-light-duty/2550-r24-zz-ball-bearing-1-1-2x2-5-8x9-16-shielded-s13kdd.html) in stock at under $10 — that’s definitely a better deal than MCM, but I’d have to wait for shipping. 
 
 ## Thursday September 14th
 
