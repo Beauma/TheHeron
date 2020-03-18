@@ -1,3 +1,5 @@
+## Fuck you I'm making changes
+
 ## Tuesday September 19th
 
 Despite not updating this as frequently I’ve been working pretty steadily. I talked to Bill Huang about simplifying the camshaft mechanism. He thought it would be easier to change the cam lobes to like a true offset cam shaft. I don’t think I’m describing this well, but essentially a pipe with different pipes offset. 
